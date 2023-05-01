@@ -1,0 +1,10 @@
+--- model/inverter.py.orig	2023-05-01 17:58:41
++++ model/inverter.py	2023-05-01 17:58:53
+@@ -24,6 +24,7 @@
+ 
+     __serial_prefix_to_models_lut__ = {
+         'CE': AC,
++        'EA': Gen2,
+         'ED': Gen2,
+         'SA': Hybrid,
+         'SD': Hybrid,
