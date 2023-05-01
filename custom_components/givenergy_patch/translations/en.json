@@ -1,0 +1,12 @@
+{
+    "config": {
+        "abort": {
+            "single_instance_allowed": "Already configured. Only a single configuration possible."
+        },
+        "step": {
+            "user": {
+                "description": "This will patch your existing Google Assistant SDK integration. You will need to restart Home Assistant for changes to take effect."
+            }
+        }
+    }
+}

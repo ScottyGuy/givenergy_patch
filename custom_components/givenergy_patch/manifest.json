@@ -1,0 +1,12 @@
+{
+  "domain": "givenergy_patch",
+  "name": "Givenergy local patch",
+  "codeowners": [
+    "@ScottyGuy"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/ScottyGuy/givenergy_patch",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/ScottyGuy/givenergy_patch/issues",
+  "version": "0.1.0"
+}

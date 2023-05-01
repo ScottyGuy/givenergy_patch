@@ -1,0 +1,7 @@
+{
+  "name": "Patch givenergy_modbus with new inverter serial number prefix",
+  "homeassistant": "2023.4.0",
+  "render_readme": true,
+  "zip_release": true,
+  "filename": "givenergy_patch.zip"
+}
