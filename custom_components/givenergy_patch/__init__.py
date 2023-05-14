@@ -8,7 +8,6 @@ from os.path import isdir, join
 import subprocess
 import sys
 
-import homeassistant.components.givenergy_patch as givenergy_patch
 from homeassistant.config_entries import ConfigEntry
 from homeassistant.core import HomeAssistant, callback
 from homeassistant.helpers.start import async_at_start
